@@ -1,0 +1,3 @@
+C:/Users/sanik/CLionProjects/othello/cmake-build-debug/CMakeFiles/othello.dir
+C:/Users/sanik/CLionProjects/othello/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sanik/CLionProjects/othello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
