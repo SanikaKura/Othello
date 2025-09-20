@@ -1,4 +1,2 @@
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/758f931d-140d-48ef-bfc3-624e2a279b07)
-
-![Untitled video - Made with Clipchamp (1) (1)](https://github.com/user-attachments/assets/63c3475b-9dda-4bf5-94f3-39bd6a0a235c)
-
+![Untitled video - Made with Clipchamp (2)](https://github.com/user-attachments/assets/b2959aae-bb3c-4473-b6ff-235e1b16c83e)
+![Untitled video - Made with Clipchamp (3)](https://github.com/user-attachments/assets/f479bd5b-58cb-406f-bfab-f50091ca197e)
